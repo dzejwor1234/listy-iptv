@@ -1,2 +1,2 @@
-# listy-iptv
-listy iptv darmowe listy
+# Listy-Iptv
+Darmowe listy IPTV
